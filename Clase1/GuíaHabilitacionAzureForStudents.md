@@ -1,6 +1,6 @@
 # Pasos para la habilitación de la cuenta de Azure for Students
 
-1. Auntenticarse en portal.azure.com con un correo personal de hotmail / Outlook    
+1. Auntenticarse en <portal.azure.com> con un correo personal de hotmail / Outlook    
 <image src="/Clase1/Imgs/Autenticacion.png">    
 2. Dirigirse a la sección EDUCACION / EDUCATION mediante la barra de búsqueda    
 <image src="/Clase1/Imgs/Educa&Subs.png">    
@@ -11,7 +11,7 @@
 6. Comprobar estado de la suscripción        
     <image src="/Clase1/Imgs/Educa&Subs.png">     
     Ir a EDUCATION y comprobar el crédito disponible de 100 USD.    
-    Ir a Suscripciones y comprobar que esté añadida la Suscripción de MS Azure for Students
+    Ir a Suscripciones y comprobar que esté añadida la Suscripción de MS Azure for Students.    
 
 # Instalacion de Visual Studio Code
 1. Bajar el software desde: <https://code.visualstudio.com>
