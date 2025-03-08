@@ -11,7 +11,7 @@
 6. Comprobar estado de la suscripción        
     <image src="/Clase1/Imgs/Educa&Subs.png">     
     Ir a EDUCATION y comprobar el crédito disponible de 100 USD.    
-    Ir a Suscripciones y comprobar que esté añadida la Suscripción de MS Azure for Students.    
+    Ir a SUSCSRIPCIONES y comprobar que esté añadida la Suscripción de MS Azure for Students.    
 
 # Instalacion de Visual Studio Code
 1. Bajar el software desde: <https://code.visualstudio.com>
