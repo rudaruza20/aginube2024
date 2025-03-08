@@ -9,7 +9,7 @@
 4. Llenar el formulario de validar estado de estudiante e introduzca el e-mail de la UTA *@.uta.edu.ec en el apartado de cuenta educativa
 5. Revisar la bandeja de entrada de su cuenta de correo *@uta.edu.ec y dar click en enlace de verificación enviado por MS
 6. Comprobar estado de la suscripción        
-    <image src="/Imgs/Educa&Subs.png">     
+    <image src="/Clase1/Imgs/Educa&Subs.png">     
     Ir a EDUCATION y comprobar el crédito disponible de 100 USD    
     Ir a Suscripciones y comprobar que esté añadida la Suscripción de MS Azure for Students
 
