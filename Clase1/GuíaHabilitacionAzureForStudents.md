@@ -11,7 +11,6 @@
 6. Comprobar estado de la suscripción        
     <image src="/Clase1/Imgs/Educa&Subs.png">     
     Ir a EDUCATION y comprobar el crédito disponible de 100 USD.    
-    
     Ir a Suscripciones y comprobar que esté añadida la Suscripción de MS Azure for Students
 
 # Instalacion de Visual Studio Code
@@ -19,7 +18,7 @@
 2. Instalar 
 3. Una vez instalado dirigirse a "Extensiones"
 3. Buscar e instalar la extensión "Start git-bash"    
-<image src="/Clase1/Imgs/Git-bash.png">
+<image src="/Clase1/Imgs/Git-bashExt.png">
 4. Abrir una Terminal de PowerShell 
 
 # Instalación del Módulo de Azure Az en PowerShell tanto en local como en la Nube CloudShell
