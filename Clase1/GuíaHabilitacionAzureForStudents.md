@@ -1,6 +1,6 @@
 # Pasos para la habilitación de la cuenta de Azure for Students
 
-1. Auntenticarse en <https//portal.azure.com> con un correo personal de hotmail / Outlook    <image src="/Clase1/Imgs/Autenticacion.png">    
+1. Auntenticarse en <https://portal.azure.com> con un correo personal de hotmail / Outlook    <image src="/Clase1/Imgs/Autenticacion.png">    
 2. Dirigirse a la sección EDUCACION / EDUCATION mediante la barra de búsqueda    <image src="/Clase1/Imgs/Educa&Subs.png">    
 3. Dar click en botón "Suscríbase ahora"    <image src="/Clase1/Imgs/SusAZStudents.png">    
 4. Llenar el formulario de validar estado de estudiante e introduzca el e-mail de la UTA *@.uta.edu.ec en el apartado de cuenta educativa
