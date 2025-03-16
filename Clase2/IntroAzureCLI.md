@@ -19,5 +19,5 @@ az group list -o table
 Get-AzVM
 ```    
 ```
-az group list -o table
+az vm list -o table
 ```
