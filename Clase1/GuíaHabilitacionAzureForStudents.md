@@ -14,7 +14,7 @@
 1. Bajar el software desde: <https://code.visualstudio.com>
 2. Instalar 
 3. Una vez instalado dirigirse a "Extensiones"
-3. Buscar e instalar la extensión "Start git-bash"    
+3. Buscar e instalar la extensión "Start git-bash" para ejecutar comandos git o también puede instalar Git desde el sitio oficial <https://git-scm.com/downloads>    
 <image src="/Clase1/Imgs/Git-bashExt.png">
 4. Abrir una Terminal de PowerShell 
 
@@ -32,7 +32,7 @@ Update-Module -Name Az -Force
 ```
 Get-InstalledModule
 ```
-### Para ejecutar ciertos comando puede ser necesario luego importar librerias que les mostrará en pantalla el mismo error
+### Para ejecutar ciertos comandos puede ser necesario luego importar librerías cuya instrucción se muestra en el mismo error
 ```
 Import-Module Az.Accounts
 ```
