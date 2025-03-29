@@ -60,4 +60,7 @@ az network nsg rule create \
 ```
 az deployment group create --resource-group <RG-name> --template-file 'templatevm.json' --parameters 'parameters.json'
 ```
-
+### Eliminar un RG y todo su contenido
+```
+az group delete --name
+```
